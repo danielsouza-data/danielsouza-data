@@ -3,7 +3,7 @@
     Olá! Seja bem-vindo!👋
   </h1>
   <p align="center">
-    Analista de DBM e Dados Jr. em transição de carreira 💻
+    Consultor de DataBaseMarketing (DBM) e Analista de Dados 💻
   </p>
 </div>
 <div>
