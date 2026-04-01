@@ -1,55 +1,73 @@
-<div>
-  <h1 align="center">
-    Olá! Seja bem-vindo!👋
-  </h1>
-  <p align="center">
-    Consultor de DataBaseMarketing (DBM) e Analista de Dados 💻
-  </p>
-</div>
-<div>
-  <h2>
-    Conecte-se comigo
-  </h2>
-  <p align="center">
-    <a href="https://linkedin.com/in/dansouzaeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://t.me/dansouzaeu" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://www.dio.me/users/comercial_danielsantos" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" /></a>
-    <a href="mailto:comercial.danielsantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F" /></a> 
-  </p>
-</div>
-<div>
-  <h2>
-    Habilidades
-  </h2>
-  <p aling="center">
-    <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC" />
-    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F" />
-    <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F" />
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC" />
-  </p>
-</div>
-<div>
-  
-  <p align="center">
-   <h2 aling="center">GitHub Stats</h2>
-    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielsouza-data&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+# 🧔🏾‍♂️ Olá, eu sou o Daniel
 
-  </p>
-</div><br>
-<div>
-  <h2 aling="center">Principais Ferramentas</h2>
-  <p align="center">
-    <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width=42px /></picture>
-    <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=42px /></picture>
-    <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width=42px /></picture>
-    <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=42px /></picture>
-  </p>
-</div>
-<div>
-  <h2>
-    Meus Principais Projetos
-  </h2>
+**`[Seu título profissional ou foco de atuação, ex: Desenvolvedor Full Stack | Entusiasta de Dados]`**
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-</div>
+Sou Analista de Dados Sênior e atualmente, estou cursando duas graduações - ADS e Ciência de Dados.
+
+Com 7+ anos transformando dados brutos em decisões de negócio mensuráveis.
+ 
+Na Cogna Educação, lidero a construção de pipelines de dados em arquitetura de camadas (raw → staging → analytics) no BigQuery, com dashboards em Power BI que reduziram o tempo de análise em 30% e eliminaram a dependência de planilhas manuais. Trabalho com funil completo: da ingestão de dados via ETL até o storytelling executivo para stakeholders C-level.
+ 
+Onde entrego valor:
+ 
+CRM Analytics & Customer Journey Mapping em canais multi-touch (e-mail, SMS, WhatsApp)
+Mensuração de ROI de campanhas com KPIs de entrega, abertura, clique, conversão e matrícula
+Segmentação avançada de audiências via Customer Data Platform (CDP)
+SQL avançado: CTEs, window functions, stored procedures, SQL Jobs
+Data Modeling e padronização de métricas para áreas de marketing e planejamento
+
+📊 Atualmente explorando: NodeJs, Python, n8n.
+
+🛠️ Background técnico: Análise de Dados: Power BI · DAX · BigQuery · SQL Server · T-SQL · Python · ETL · CDP.
+
+💡 Buscando aplicar DataDriven para resolver problemas reais de mercado.
+
+   <p align="left"> 
+    <a href="https://github.com/danielsouza-data?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/danielsouza-data?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/danielsouza-data?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/danielsouza-data?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/danielsouza-data"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
+   </p>
+
+---
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielsouza-data&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielsouza-data&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
