@@ -1,6 +1,6 @@
-# 🧔🏾‍♂️ Olá, eu sou o Daniel
+# 🧔🏾‍♂️ Olá, eu sou Daniel
 
-**`[Seu título profissional ou foco de atuação, ex: Desenvolvedor Full Stack | Entusiasta de Dados]`**
+**`Analista de Dados Sênior`**
 
 Sou Analista de Dados Sênior e atualmente, estou cursando duas graduações - ADS e Ciência de Dados.
 
