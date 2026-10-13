@@ -6,7 +6,11 @@
 
 Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Paulo. Há mais de sete anos levo o dado do pipeline em SQL e BigQuery até o dashboard em Power BI que a diretoria usa para decidir o orçamento.
 
-[Portfólio](https://danielsouza-data.github.io/) | [LinkedIn](https://www.linkedin.com/in/danielsouza-data/) | [E-mail](mailto:comercial.danielsantos@gmail.com)
+<p>
+  <a href="https://danielsouza-data.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-F2C811?style=for-the-badge" alt="Portfólio" title="Ver meu portfólio"></a>
+  <a href="https://www.linkedin.com/in/danielsouza-data/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" title="Vamos fazer uma conexão"></a>
+  <a href="mailto:comercial.danielsantos@gmail.com"><img src="https://img.shields.io/badge/E--mail-2647D8?style=for-the-badge" alt="E-mail" title="Me escreva"></a>
+</p>
 
 ## No que trabalho
 
