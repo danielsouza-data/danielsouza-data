@@ -2,6 +2,8 @@
 
 **`Analista de Dados Sênior`**
 
+🌐 Portfólio: [danielsouza-data.github.io](https://danielsouza-data.github.io/)
+
 Sou Analista de Dados Sênior e atualmente, estou cursando duas graduações - ADS e Ciência de Dados.
 
 Com 7+ anos transformando dados brutos em decisões de negócio mensuráveis.
