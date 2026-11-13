@@ -45,7 +45,7 @@ Construídos com times de agentes de IA, cada um num papel, com revisão cruzada
 
 <a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/ponto-alto.webp" width="480" alt="Símbolo e nome da Ponto Alto ao lado de janelas ilustrativas da plataforma, com quadro kanban e gráfico de barras."></a>
 
-Site e plataforma de gestão da minha agência de marketing digital: PostgreSQL multi-tenant com Row Level Security, API em Fastify, React e portal do cliente com aprovação de conteúdo.
+Site e plataforma de gestão da minha agência de marketing digital: PostgreSQL multi-tenant com Row Level Security, API em Fastify, React, portal do cliente com aprovação de conteúdo e caixa de e-mail integrada.
 
 **[Explicando com Rabisco](https://www.youtube.com/@explicandocomrabisco) (2026)**
 
