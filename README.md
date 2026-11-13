@@ -23,15 +23,33 @@ Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Pa
 
 ## Projetos
 
-Os dois projetos abaixo são internos da Cogna Educação, então o código não é público. O caminho do dado e os resultados de cada um estão no [portfólio](https://danielsouza-data.github.io/#projetos).
+### Na Cogna Educação
 
-**Insider Architect Analytics (2026)**
+Projetos internos, então o código não é público. O caminho do dado e os resultados de cada um estão no [portfólio](https://danielsouza-data.github.io/#projetos).
 
-Plataforma que calcula ROAS, CPA e ROI por canal e ciclo de captação para a Central de Relacionamento, sem cruzamento manual de dados. Feita com Next.js, Supabase (PostgreSQL) e BigQuery.
+**Painel executivo de CRM e atribuição (2026)**
+
+Painel em produção que junta a mensageria (e-mail, SMS, WhatsApp e push) ao funil de captação e atribui conversões ao CRM por último clique e toques assistidos. Feito com Next.js, Supabase (PostgreSQL) e BigQuery.
 
 **Dashboard integrado de CRM multicanal (2025)**
 
 Monitoramento da jornada completa de CRM em Power BI sobre BigQuery, que substituiu as planilhas manuais e reduziu em 30% o tempo de análise da equipe de marketing.
+
+### Projetos próprios
+
+Construídos com times de agentes de IA, cada um num papel, com revisão cruzada e aprovação humana. Detalhes no [portfólio](https://danielsouza-data.github.io/#projetos-proprios).
+
+**[Ponto Alto](https://agenciapontoalto.com.br) (2026)**
+
+Site e plataforma de gestão da minha agência de marketing digital: PostgreSQL multi-tenant com Row Level Security, API em Fastify, React e portal do cliente com aprovação de conteúdo.
+
+**[Explicando com Rabisco](https://www.youtube.com/@explicandocomrabisco) (2026)**
+
+Canal de vídeos curtos sobre curiosidades, produzido por um pipeline de custo zero sem GPU: roteiro checado, narração local, animação programática e envio agendado pela API.
+
+**Conteúdo para o LinkedIn em código (2026)**
+
+Posts com artes desenhadas em HTML e renderizadas com Playwright, produzidos por agentes de IA e publicados só com a minha aprovação.
 
 ## Ferramentas
 
@@ -44,7 +62,7 @@ Monitoramento da jornada completa de CRM em Power BI sobre BigQuery, que substit
 | CRM | CDP, automação de campanhas, segmentação |
 | Desenvolvimento web | Next.js, React, Supabase, Vercel, GitHub Actions |
 
-Explorando agora: Node.js, Python e n8n.
+Explorando agora: times de agentes de IA, TypeScript, Node.js e n8n.
 
 ## Formação
 
