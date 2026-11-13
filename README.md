@@ -29,6 +29,8 @@ Projetos internos, então o código não é público. O caminho do dado e os res
 
 **Painel executivo de CRM e atribuição (2026)**
 
+<a href="https://danielsouza-data.github.io/#projetos"><img src="https://danielsouza-data.github.io/assets/img/projetos/crm-analytics.webp" width="480" alt="Ilustração com o título CRM Analytics, um funil de conversão e um painel com gráficos, sem dados reais."></a>
+
 Painel em produção que junta a mensageria (e-mail, SMS, WhatsApp e push) ao funil de captação e atribui conversões ao CRM por último clique e toques assistidos. Feito com Next.js, Supabase (PostgreSQL) e BigQuery.
 
 **Dashboard integrado de CRM multicanal (2025)**
@@ -41,13 +43,19 @@ Construídos com times de agentes de IA, cada um num papel, com revisão cruzada
 
 **[Ponto Alto](https://agenciapontoalto.com.br) (2026)**
 
+<a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/ponto-alto.webp" width="480" alt="Símbolo e nome da Ponto Alto ao lado de janelas ilustrativas da plataforma, com quadro kanban e gráfico de barras."></a>
+
 Site e plataforma de gestão da minha agência de marketing digital: PostgreSQL multi-tenant com Row Level Security, API em Fastify, React e portal do cliente com aprovação de conteúdo.
 
 **[Explicando com Rabisco](https://www.youtube.com/@explicandocomrabisco) (2026)**
 
+<a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/explicando-com-rabisco.webp" width="480" alt="Mascote Rabisco, um bonequinho de gravata-borboleta amarela, apontando para o nome Explicando com Rabisco escrito à mão."></a>
+
 Canal de vídeos curtos sobre curiosidades, produzido por um pipeline de custo zero sem GPU: roteiro checado, narração local, animação programática e envio agendado pela API.
 
 **Conteúdo para o LinkedIn em código (2026)**
+
+<a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/conteudo-linkedin.webp" width="480" alt="Avatar 8-bit ligado a quatro ícones de agentes de IA, com o título Conteúdo para o LinkedIn em código."></a>
 
 Posts com artes desenhadas em HTML e renderizadas com Playwright, produzidos por agentes de IA e publicados só com a minha aprovação.
 
