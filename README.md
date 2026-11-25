@@ -43,7 +43,7 @@ Canal de vídeos curtos sobre curiosidades, produzido por um pipeline de custo z
 
 **Conteúdo para o LinkedIn em código (2026)**
 
-<a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/conteudo-linkedin.webp" width="480" alt="Avatar 8-bit ligado a quatro ícones de agentes de IA, com o título Conteúdo para o LinkedIn em código."></a>
+<a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/conteudo-linkedin.webp" width="480" alt="Editor de código de onde saem três cartões de post, com um selo amarelo de aprovação, e o título Conteúdo para o LinkedIn em código."></a>
 
 Posts com artes desenhadas em HTML e renderizadas com Playwright, produzidos por agentes de IA e publicados só com a minha aprovação.
 
