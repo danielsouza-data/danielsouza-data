@@ -1,10 +1,10 @@
 <a href="https://danielsouza-data.github.io/">
-  <img src="assets/portfolio-daniel-souza.png" width="100%" alt="Daniel Souza, Analista de Dados Sênior em CRM e Marketing Analytics: mostro quais campanhas de CRM viram matrícula e quanto cada uma custou.">
+  <img src="assets/portfolio-daniel-souza.png" width="100%" alt="Daniel Souza, IA Aplicada: monto processos com agentes de IA, com revisão e aprovação humana. Agentes e Automação com IA, Analytics Engineering, Dados e CRM.">
 </a>
 
 # Daniel Souza
 
-Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Paulo. Há mais de sete anos levo o dado do pipeline em SQL e BigQuery até o dashboard em Power BI que a diretoria usa para decidir o orçamento.
+IA aplicada: monto processos com agentes de IA em papéis definidos, com revisão cruzada entre modelos e aprovação humana. A base são mais de sete anos em dados e Analytics Engineering; hoje sou Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Paulo.
 
 <p>
   <a href="https://danielsouza-data.github.io/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-F2C811?style=for-the-badge" alt="Portfólio" title="Ver meu portfólio"></a>
@@ -14,6 +14,8 @@ Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Pa
 
 ## No que trabalho
 
+- Processos com agentes de IA: papéis definidos, engenharia de contexto, revisão cruzada entre modelos e aprovação humana.
+- Automação de fluxos com Python e LLMs, com servidores MCP e knowledge graph do código.
 - CRM Analytics e jornada do cliente em e-mail, SMS e WhatsApp.
 - Mensuração de ROI de campanhas, com KPIs de entrega, abertura, clique, inscrição e matrícula.
 - Pipelines de dados em camadas (raw, staging, analytics) no BigQuery.
@@ -23,21 +25,7 @@ Analista de Dados Sênior em Marketing Analytics na Cogna Educação, em São Pa
 
 ## Projetos
 
-### Na Cogna Educação
-
-Projetos internos, então o código não é público. O caminho do dado e os resultados de cada um estão no [portfólio](https://danielsouza-data.github.io/#projetos).
-
-**Painel executivo de CRM e atribuição (2026)**
-
-<a href="https://danielsouza-data.github.io/#projetos"><img src="https://danielsouza-data.github.io/assets/img/projetos/crm-analytics.webp" width="480" alt="Ilustração com o título CRM Analytics, um funil de conversão e um painel com gráficos, sem dados reais."></a>
-
-Painel em produção que junta a mensageria (e-mail, SMS, WhatsApp e push) ao funil de captação e atribui conversões ao CRM por último clique e toques assistidos. Feito com Next.js, Supabase (PostgreSQL) e BigQuery.
-
-**Dashboard integrado de CRM multicanal (2025)**
-
-Monitoramento da jornada completa de CRM em Power BI sobre BigQuery, que substituiu as planilhas manuais e reduziu em 30% o tempo de análise da equipe de marketing.
-
-### Projetos próprios
+### Processos com IA que construí (projetos próprios)
 
 Construídos com times de agentes de IA, cada um num papel, com revisão cruzada e aprovação humana. Detalhes no [portfólio](https://danielsouza-data.github.io/#projetos-proprios).
 
@@ -58,6 +46,20 @@ Canal de vídeos curtos sobre curiosidades, produzido por um pipeline de custo z
 <a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/conteudo-linkedin.webp" width="480" alt="Avatar 8-bit ligado a quatro ícones de agentes de IA, com o título Conteúdo para o LinkedIn em código."></a>
 
 Posts com artes desenhadas em HTML e renderizadas com Playwright, produzidos por agentes de IA e publicados só com a minha aprovação.
+
+### Na Cogna Educação
+
+Projetos internos, então o código não é público. O caminho do dado e os resultados de cada um estão no [portfólio](https://danielsouza-data.github.io/#projetos).
+
+**Painel executivo de CRM e atribuição (2026)**
+
+<a href="https://danielsouza-data.github.io/#projetos"><img src="https://danielsouza-data.github.io/assets/img/projetos/crm-analytics.webp" width="480" alt="Ilustração com o título CRM Analytics, um funil de conversão e um painel com gráficos, sem dados reais."></a>
+
+Painel em produção que junta a mensageria (e-mail, SMS, WhatsApp e push) ao funil de captação e atribui conversões ao CRM por último clique e toques assistidos. Feito com Next.js, Supabase (PostgreSQL) e BigQuery.
+
+**Dashboard integrado de CRM multicanal (2025)**
+
+Monitoramento da jornada completa de CRM em Power BI sobre BigQuery, que substituiu as planilhas manuais e reduziu o tempo de análise da equipe de marketing.
 
 ## Ferramentas
 
@@ -91,7 +93,7 @@ Explorando agora: n8n e novas formas de orquestrar times de agentes de IA.
 
 ## O que escrevo
 
-Publico no LinkedIn textos curtos sobre CRM e dados. Dois para começar:
+Publico no LinkedIn textos curtos sobre dados, CRM e IA aplicada a processos. Dois para começar:
 
 - [Dashboard lento não é só tech, é adoção](https://www.linkedin.com/feed/update/urn:li:activity:7513199671687667712/)
 - [Analytics não deveria funcionar como bombeiro, e sim como sensor](https://www.linkedin.com/feed/update/urn:li:activity:7465498006650322944/)
