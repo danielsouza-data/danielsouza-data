@@ -39,7 +39,7 @@ Site e plataforma de gestão da minha agência de marketing digital: PostgreSQL 
 
 <a href="https://danielsouza-data.github.io/#projetos-proprios"><img src="https://danielsouza-data.github.io/assets/img/projetos/explicando-com-rabisco.webp" width="480" alt="Mascote Rabisco, um bonequinho de gravata-borboleta amarela, apontando para o nome Explicando com Rabisco escrito à mão."></a>
 
-Canal de vídeos curtos sobre curiosidades, produzido por um pipeline de custo zero sem GPU: roteiro checado, narração local, animação programática e envio agendado pela API.
+Canal de vídeos curtos sobre curiosidades, produzido por um pipeline sem GPU nem APIs pagas de mídia: roteiro checado, narração local, animação programática e envio agendado pela API.
 
 **Conteúdo para o LinkedIn em código (2026)**
 
